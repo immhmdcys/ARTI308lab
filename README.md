@@ -17,11 +17,11 @@ The curriculum includes 12 labs, with 9 graded assignments.
 | Week | Lab | Topic | Status |
 | :--- | :--- | :--- | :--- |
 | 02 | Lab 01 | Git & GitHub for ML Projects | ✅ Completed |
-| 03 | Lab 02 | ML Problem Identification & Methodology | ⏳ Pending |
-| 04 | Lab 03 | Data Understanding & EDA | ⏳ Pending |
-| 05 | Lab 04 | Data Quality Assessment & Preprocessing | ⏳ Pending |
+| 03 | Lab 02 | ML Problem Identification & Methodology | ✅ Completed |
+| 04 | Lab 03 | Data Understanding & EDA | ✅ Completed |
+| 05 | Lab 04 | Data Quality Assessment & Preprocessing | ✅ Completed |
 | 06 | Lab 05 | Feature Engineering & Feature Impact | ⏳ Pending |
-| 07 | Lab 06 | Regression Models (Linear & Logistic) | ⏳ Pending |
+| 07 | Lab 06 | Regression Models (Linear & Logistic) | ✅ Completed |
 | 08 | Lab 07 | Distance-Based Models (k-NN) | ⏳ Pending |
 | 09 | Lab 08 | Decision Tree Models | ⏳ Pending |
 | 10 | Lab 09 | Support Vector Machines (SVM) | ⏳ Pending |
