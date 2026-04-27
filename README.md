@@ -22,8 +22,8 @@ The curriculum includes 12 labs, with 9 graded assignments.
 | 05 | Lab 04 | Data Quality Assessment & Preprocessing | ✅ Completed |
 | 06 | Lab 05 | Feature Engineering & Feature Impact | ⏳ Pending |
 | 07 | Lab 06 | Regression Models (Linear & Logistic) | ✅ Completed |
-| 08 | Lab 07 | Distance-Based Models (k-NN) | ⏳ Pending |
-| 09 | Lab 08 | Decision Tree Models | ⏳ Pending |
+| 08 | Lab 07 | Distance-Based Models (k-NN) | ✅ Completed |
+| 09 | Lab 08 | Decision Tree Models | ✅ Completed |
 | 10 | Lab 09 | Support Vector Machines (SVM) | ⏳ Pending |
 | 11 | Lab 10 | Model Comparison | ⏳ Pending |
 | 12 | Lab 11 | MLOps (Ungraded) | ⏳ Pending |
