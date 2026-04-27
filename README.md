@@ -24,6 +24,6 @@ The curriculum includes 12 labs, with 9 graded assignments.
 | 07 | Lab 06 | Regression Models (Linear & Logistic) | ✅ Completed |
 | 08 | Lab 07 | Distance-Based Models (k-NN) | ✅ Completed |
 | 09 | Lab 08 | Decision Tree Models | ✅ Completed |
-| 10 | Lab 09 | Support Vector Machines (SVM) | ⏳ Pending |
+| 10 | Lab 09 | Support Vector Machines (SVM) | ✅ Completed |
 | 11 | Lab 10 | Model Comparison | ⏳ Pending |
 | 12 | Lab 11 | MLOps (Ungraded) | ⏳ Pending |
